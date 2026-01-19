@@ -105,6 +105,6 @@ Projects within the AndroidIRCx organization are released under:
 ## ❤️ Author & Maintainer
 
 Developed and maintained by  
-**Velimir Majstorov** and the AndroidIRCx community.
+[**Velimir Majstorov**](https://github.com/r0073rr0r) and the AndroidIRCx community.
 
 If you value IRC, privacy, and open-source software — welcome aboard.
